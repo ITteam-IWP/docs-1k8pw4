@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-cud4kz.pagoimpuetosvehiculo.top/sitemap.xml
